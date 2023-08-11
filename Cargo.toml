@@ -42,7 +42,7 @@ ntest = "0.7.3"
 tokio-test = "0.4.0"
 
 [dependencies.tokio]
-version = "1.0.0"
+version = "1.18.5"
 features = [
 	"fs",
 	"io-util",
